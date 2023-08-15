@@ -40,8 +40,8 @@ _The program allows you to receive customers in the restaurant, assigns them a d
 -->After the 'for' loop has iterated through all the customers, the program displays a cat with message using the cowsay library. The message includes the names of all the customers at the table, along with the final amount to pay.
 
 ## Find me in:
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/pinner2020)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/matias-etchepare)
+[![Twitter](https://img.shields.io/badge/Twitter-@pinner2020-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/pinner2020)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matias_Etchepare-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/matias-etchepare)
 
 
 
