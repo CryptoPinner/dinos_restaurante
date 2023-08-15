@@ -8,7 +8,7 @@
 <table style="width:100%">
 <tr>
 <td>
-<a href="https://www.youtube.com/watch?v=ZfQ1sySTX-0&t=3s">
+<a href="https://www.youtube.com/watch?v=TvlxZlWeDRs">
 <img src="https://github.com/CryptoPinner/dinos_restaurante/blob/8f01c1a8da5149994718cbf60864b7ce56dd7d8a/dinos3.png">
 
 ### Description:
