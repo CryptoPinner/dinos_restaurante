@@ -1,6 +1,6 @@
-# Final CS50's Project
+# DINOS RESTAURANTE
 ![https://github.com/CryptoPinner](https://github.com/CryptoPinner/dinos_restaurante/blob/0ecc04444e93b320d6b029dd191814cc284d6ba7/dinos.png)
-## Project done by Matias Etchepare as final project for HarvardX
+## Project done by Matias Etchepare as Final CS50's Project for HarvardX
 ### Written in
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
