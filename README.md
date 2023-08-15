@@ -9,7 +9,7 @@
 <tr>
 <td>
 <a href="https://www.youtube.com/watch?v=ZfQ1sySTX-0&t=3s">
-<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
+<img src="https://github.com/CryptoPinner/dinos_restaurante/blob/7c27ea5e96129742f34affc52e613a68f33abf21/dinos2.png">
 
 ### Description:
 _The program allows you to receive customers in the restaurant, assigns them a discount, depending on whether they are repeat customers or not, then each customer chooses from the available menus and tells them how much they have to pay._
