@@ -14,7 +14,7 @@
 ### Description:
 _The program allows you to receive customers in the restaurant, assigns them a discount, depending on whether they are repeat customers or not, then each customer chooses from the available menus and tells them how much they have to pay._
 
-#### The program is divide in three parts:
+### The program is divide in three parts:
 **1) Reception:**
 
 -->The initial prompt display the restaurant's opening hours. Using “datetime”, it will determine if it's lunchtime, dinnertime, or if the restaurant is closed. If it’s closed, it will exit with "sys.exit". If it’s open, a welcome message will be displayed giving formatting with “Figlet”.
@@ -39,6 +39,9 @@ _The program allows you to receive customers in the restaurant, assigns them a d
 
 -->After the 'for' loop has iterated through all the customers, the program displays a cat with message using the cowsay library. The message includes the names of all the customers at the table, along with the final amount to pay.
 
+## Find me in:
+[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/pinner2020)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/matias-etchepare)
 
 
 
